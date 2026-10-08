@@ -1,0 +1,13 @@
+VibeChat/
+├── app/
+│   ├── build.gradle.kts
+│   └── src/
+│       └── main/
+│           ├── AndroidManifest.xml
+│           ├── java/.../MainActivity.kt
+│           └── res/...
+├── build.gradle.kts
+├── settings.gradle.kts
+└── .github/
+    └── workflows/
+        └── main.yml
